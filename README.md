@@ -5,4 +5,4 @@ To run this project, clone or download the repository. Follow along the "install
 ## About the Project  
 This demo is similar to the Adobe Flash version I created found here: http://www.paigepeck.com/deserted/, but this version has more features and better handling of player's ship. It is designed using the Allegro game library found here: http://liballeg.org/. 
 
-This version currently only has the player's ship and two different weapon sets. A system for adjusting the player's shield strengh, weapon abilities, and engine power is a new feature. After enough power in one system, a special ability is made available. 
+This version currently only has the player's ship and two different weapon sets. A system for adjusting the player's shield strength, weapon abilities, and engine power is a new feature. After enough power in one system, a special ability is made available. 
