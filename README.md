@@ -5,7 +5,7 @@ This demo is similar to the Adobe Flash version I created found here: http://www
 This version currently only has the player's ship and two different weapon sets. A system for adjusting the player's shield strength, weapon abilities, and engine power is a new feature. After enough power in one system, a special ability is made available. 
 
 
-## Building Project  
+## Building Project  (From installAllegro.xps file included in repo)
 ###1. INSTALL VISUAL C++ EXPRESS (FROM MICROSOFT WEB SITE)
 First, install the Microsoft Visual C++ Express Edition 2010.
 ###2. DOWNLOAD AND INSTALL ALLEGRO (FOR VISUAL STUDIO 2010)
